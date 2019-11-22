@@ -23,3 +23,5 @@ ReactDOM.render(
   </Provider>,
   rootElement
 );
+
+// Additional Dependencies added: redux, react-redux, and node-sass
